@@ -9,6 +9,8 @@ Decor is a web project aimed at providing interior decoration inspiration and re
 
 ## How to Use the Project
 1. Click on the link below to open the website on browser.
+    - https://anwesha2002.github.io/Decor-Interior-Company/
+ 
 2. Explore the different sections of the project:
 - Browse the gallery to find inspiring interior images.
 - Read the blog posts for decor tips, design trends, and DIY project ideas.
